@@ -59,6 +59,6 @@ Bu proje, bir kütüphanenin temel işleyişini yönetmek amacıyla geliştirilm
 
 # 👨‍💻 Geliştirici
 
-İbrahim Can Yurtsev
+Esma Nur Kartal
 
 Görsel Programlama Dersi Projesi
