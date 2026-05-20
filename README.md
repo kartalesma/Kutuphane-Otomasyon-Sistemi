@@ -25,50 +25,19 @@ Bu proje, bir kütüphanenin temel işleyişini yönetmek amacıyla geliştirilm
 
 ---
 
-# 🖼 Ekran Görüntüleri
+![Ana Form](GorselOdevi/Images/imagesanaform.png)
 
-## Ana Form
+![Kitap Ekle](GorselOdevi/Images/imageskitapekle.png)
 
-![Ana Form](GorselOdevi/Images/anaform.png)
+![Üye Ekle](GorselOdevi/Images/imagesuyeekle.png)
 
----
+![Ödünç Al](GorselOdevi/Images/imagesoduncal.png)
 
-## Kitap Ekle
+![Kitap Listele](GorselOdevi/Images/imageskitaplistele.png)
 
-![Kitap Ekle](GorselOdevi/Images/kitapekle.png)
+![Üye Listele](GorselOdevi/Images/imagesuyelistele.png)
 
----
-
-## Üye Ekle
-
-![Üye Ekle](GorselOdevi/Images/uyeekle.png)
-
----
-
-## Ödünç Al
-
-![Ödünç Al](GorselOdevi/Images/oduncal.png)
-
----
-
-## Kitap Listele
-
-![Kitap Listele](GorselOdevi/Images/kitaplistele.png)
-
----
-
-## Üye Listele
-
-![Üye Listele](GorselOdevi/Images/uyelistele.png)
-
----
-
-## Geciken Kitaplar
-
-![Geciken Kitaplar](GorselOdevi/Images/gecikenkitaplar.png)
-
----
-
+![Geciken Kitaplar](GorselOdevi/Images/imagesgecikenkitaplar.png)
 # ⚙️ Kurulum
 
 1. Projeyi indirin
